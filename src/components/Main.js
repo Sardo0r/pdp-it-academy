@@ -465,7 +465,7 @@ class Main extends Component {
                                     <div>chegirmalar tugaydi</div>
                                 </div>
                             </div>
-                            <div className="mt-15 bg-white rounded-1 align-items-center p-3 d-flex">
+                            <div className="mt-15 bg-white rounded-1 align-items-center p-30 d-flex">
                                 <span className="bg-2"><img src="images/vector/2.svg" alt="#"/></span>
                                 <div className="ml-4">
                                     <div className="te-fo-21">Pulni qaytarib olish</div>
@@ -485,13 +485,136 @@ class Main extends Component {
                                     <div className="te-fo-21">Savolingiz bormi ?</div>
                                     <div> Qo‘ng‘iroq qiling: <b>(+99878) 777-47-47</b>
                                     </div>
-                                    <div>Savolingizni yozing:<a href="#"><b className="text-dark">www.t.me/supportbot</b></a> </div>
+                                    <div>Savolingizni yozing:<a href="#"><b
+                                        className="text-dark">www.t.me/supportbot</b></a></div>
                                 </div>
                             </div>
                         </div>
 
                     </div>
+                    <div className="row mb-4 ">
+                        <div className="col-md-7"></div>
+                        <div className="col-md-5 p-3">
+                            <div className="bg-white rounded-1 p-30">
+                                <div className="te-fo-22 stick ">
+                                    Menda promo kod mavjud
+                                </div>
+                                <div className="mt-80">Promokod</div>
+                                <div className="te-fo-23">-1 000 000 so‘m</div>
+                                <div className="mt-42">Kurs uchun chegirma</div>
+                                <div className="te-fo-23">-900 000 so‘m</div>
+                                <div className="mt-42 te-fo-24">
+                                    Kursning chegirmasiz narxi <b>5 000 000 so‘m</b>
+                                </div>
+                                <div className="stick-2 mt-20"/>
+                                <div className="stick-2 mt-1"/>
+                                <div className="mt-30">Tanlangan kurslaringiz narxi</div>
+                                <div className="te-fo-15 mt-1">3 100 000 so‘m</div>
+                            </div>
 
+                        </div>
+                    </div>
+
+
+                </div>
+                <div className="border-top-2"/>
+                <div className="bg-white">
+                    <div className="container  ">
+                        <div className="row py-3">
+                            <div className="col-md-7">
+                                <div>Tanlangan kurslar:</div>
+                                <div className="te-fo-25 mt-1">Frontend Development, Python Development</div>
+                            </div>
+                            <div className="col-md-5 d-flex align-items-center">
+                                <div>
+                                    Tanlagan kurslaringiz narxi
+                                    <div className="te-fo-25">
+                                        3 100 000 so'm
+                                    </div>
+                                </div>
+                                <button className="btn btn-dark rounded-1 ml-3">Xarid qilish</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="border-top-2"/>
+                <div className="bg-white">
+                    <div className="container pt-114">
+                        <div className="row">
+                            <div className="col-md-6">
+                                <div>(78) 777-47-47</div>
+                                <div className="te-fo-27 mt-2">Yagona xizmat raqami</div>
+                                <img src="./images/vector/5.png" alt="#" className="mt-70"/>
+                                <div className="te-fo-28 mt-2">
+                                    Toshkent shahar. Shayxontohur tum.,
+                                    <div>Zarqaynar ko'ch., 3b-uy.</div>
+                                </div>
+                                <div className="d-flex align-items-center mt-5 mb-3">
+                                    <img src="./images/vector/6.png" alt="#"/>
+                                    <img src="./images/vector/7.png" className="ml-3" alt="#"/>
+                                </div>
+                            </div>
+                            <div className="col-md-2 d-flex flex-column">
+                                <a href="#" className="te-fo-25 mb-3">
+                                    Asosiy
+                                </a>
+                                <a href="#" className="te-fo-29">
+                                    Kompaniya haqida
+                                </a>
+                                <a href="#" className="te-fo-29">
+                                    Hamkorlik
+                                </a>
+                                <a href="#" className="te-fo-29">
+                                    Huquqiy hujjatlar
+                                </a>
+                                <a href="#" className="te-fo-29">
+                                    Bog’lanish
+                                </a>
+                            </div>
+                            <div className="col-md-2 d-flex flex-column">
+                                <a href="#" className="te-fo-25 mb-3">
+                                    Ta’lim
+                                </a>
+                                <a href="#" className="te-fo-29">
+                                    Onside
+                                </a>
+                                <a href="#" className="te-fo-29">
+                                    Online
+                                </a>
+                                <a href="#" className="te-fo-29">
+                                    Imtiyoz
+                                </a>
+                                <a href="#" className="te-fo-29">
+                                    Code Skill
+                                </a>
+                            </div>
+                            <div className="col-md-2 d-flex flex-column ">
+                                <a href="#" className="te-fo-25 mb-3">
+                                    Loyihalar
+                                </a>
+                                <a href="#" className="te-fo-29">
+                                    PDP Live
+                                </a>
+                                <a href="#" className="te-fo-29">
+                                    PDP Meetup
+                                </a>
+                                <a href="#" className="te-fo-29">
+                                    PDP Generation
+                                </a>
+                                <a href="#" className="te-fo-29">
+                                    Sertifikat
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="container border-top-3 pt-4 d-flex pb-4 justify-content-between align-items-center">
+                        <div>Inflex, Inc. 2017 – 2020</div>
+                        <div>
+                            <a href="#"><b className="icon-1"></b></a>
+                            <a href="#"><b className="icon-2 ml-3"></b></a>
+                            <a href="#"><b className="icon-3 ml-3"></b></a>
+                        </div>
+                    </div>
                 </div>
 
 

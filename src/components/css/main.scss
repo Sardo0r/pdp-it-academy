@@ -1,0 +1,112 @@
+.icon-1{
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  color: black;
+  background-color: #000000;
+  mask:{
+    image: url("../../bgImages/8.png");
+    repeat: no-repeat;
+    size: 100%;
+    position: center center;
+  }
+  -webkit-mask: {
+    image: url("../../bgImages/8.png");
+    repeat: no-repeat;
+    size: 100%;
+    position: center center;
+  };
+}
+
+.icon-1:hover{
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background-color: #3fde61;
+  mask:{
+    image: url("../../bgImages/8.png");
+    repeat: no-repeat;
+    size: 100%;
+    position: center center;
+  }
+  -webkit-mask: {
+    image: url("../../bgImages/8.png");
+    repeat: no-repeat;
+    size: 100%;
+    position: center center;
+  };
+}
+.icon-2{
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background-color: #000000;
+  mask:{
+    image: url("../../bgImages/9.png");
+    repeat: no-repeat;
+    size: 100%;
+    position: center center;
+  }
+  -webkit-mask: {
+    image: url("../../bgImages/9.png");
+    repeat: no-repeat;
+    size: 100%;
+    position: center center;
+  };
+}
+
+.icon-2:hover{
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background-color: #3fde61;
+  mask:{
+    image: url("../../bgImages/9.png");
+    repeat: no-repeat;
+    size: 100%;
+    position: center center;
+  }
+  -webkit-mask: {
+    image: url("../../bgImages/9.png");
+    repeat: no-repeat;
+    size: 100%;
+    position: center center;
+  };
+}
+.icon-3{
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background-color: #000000;
+  mask:{
+    image: url("../../bgImages/10.png");
+    repeat: no-repeat;
+    size: 100%;
+    position: center center;
+  }
+  -webkit-mask: {
+    image: url("../../bgImages/10.png");
+    repeat: no-repeat;
+    size: 100%;
+    position: center center;
+  };
+}
+
+.icon-3:hover{
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background-color: #3fde61;
+  mask:{
+    image: url("../../bgImages/10.png");
+    repeat: no-repeat;
+    size: 100%;
+    position: center center;
+  }
+  -webkit-mask: {
+    image: url("../../bgImages/10.png");
+    repeat: no-repeat;
+    size: 100%;
+    position: center center;
+  };
+}
